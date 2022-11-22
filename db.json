@@ -1,0 +1,80 @@
+{
+  "livraria": [
+    {
+      "id": 1,
+      "nome": "Crepúsculo",
+      "autor": "Stephenie Meyer",
+      "gênero": "Romance, Drama, Melodrama, Terror, Fantasia"
+    },
+    {
+      "id:": 2,
+      "nome": "Lua Nova",
+      "autor": "Stephenie Meyer",
+      "gênero": "Romance, Drama, Fantasia, Melodrama, Aventura "
+    },
+    {
+      "id": 3,
+      "nome": "Eclipse",
+      "autor": "Stephenie Meyer",
+      "gênero": "Ação, Romance, Terror, Melodrama, Suspense, Fantasia, Aventura, Adolescente"
+    },
+    {
+      "id": 4,
+      "nome": "Amanhecer",
+      "autor": "Stephenie Meyer",
+      "gênero": "Romance, Melodrama, Drama, Fantasia, Aventura, Adolescente, Suspense"
+    }
+  ],
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "Dayse",
+      "sobrenome": "Campos",
+      "idade": "32"
+    },
+    {
+      "id": 2,
+      "nome": "Camila",
+      "sobrenome": "Oliveira",
+      "idade": "29"
+    },
+    {
+      "id": 3,
+      "nome": "Natalia",
+      "sobrenome": "Carvalho",
+      "idade": "20"
+    },
+    {
+      "id": 4,
+      "nome": "Matheus",
+      "sobrenome": "Cardoso",
+      "idade": "21"
+    }
+  ],
+  "cargos": [
+    {
+      "id": 1,
+      "Cargo": "Gerente de Loja",
+      "Salário": "R$4884,00",
+      "Empregados": "Matheus Cardoso"
+    },
+    {
+      "id": 2,
+      "Cargo": "Balconista",
+      "Salário": "R$1946,50",
+      "Empregados": "Camila Oliveira"
+    },
+    {
+      "id": 3,
+      "Cargo": "Organizador",
+      "Salário": "R$2425,90",
+      "Empregados": "Natalia Carvalho"
+    },
+    {
+      "id": 4,
+      "Cargo": "Auxiliar de Limpeza",
+      "Salário": "R$1818,25",
+      "Empregados": "Dayse Campos"
+    }
+  ]
+}
