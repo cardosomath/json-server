@@ -2,25 +2,25 @@
   "livraria": [
     {
       "id": 1,
-      "nome": "Crepúsculo",
+      "titulo": "Crepúsculo",
       "autor": "Stephenie Meyer",
       "gênero": "Romance, Drama, Melodrama, Terror, Fantasia"
     },
     {
       "id:": 2,
-      "nome": "Lua Nova",
+      "titulo": "Lua Nova",
       "autor": "Stephenie Meyer",
       "gênero": "Romance, Drama, Fantasia, Melodrama, Aventura "
     },
     {
       "id": 3,
-      "nome": "Eclipse",
+      "titulo": "Eclipse",
       "autor": "Stephenie Meyer",
       "gênero": "Ação, Romance, Terror, Melodrama, Suspense, Fantasia, Aventura, Adolescente"
     },
     {
       "id": 4,
-      "nome": "Amanhecer",
+      "titulo": "Amanhecer",
       "autor": "Stephenie Meyer",
       "gênero": "Romance, Melodrama, Drama, Fantasia, Aventura, Adolescente, Suspense"
     }
