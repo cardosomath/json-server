@@ -9,7 +9,7 @@
   "keywords": [
     "json-server,render, node, REST API"
   ],
-  "author": "Camila",
+  "author": "Matheus",
   "dependencies": {
     "json-server": "^0.17.1"
   }
